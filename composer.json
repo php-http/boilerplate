@@ -17,6 +17,10 @@
     "require": {
         "php": ">=5.4"
     },
+    "require-dev": {
+        "phpspec/phpspec": "^2.2",
+        "henrikbjorn/phpspec-code-coverage" : "^1.0"
+    },
     "autoload": {
         "psr-4": {
             "Http\\Boilerplate\\": "src/"

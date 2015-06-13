@@ -1,0 +1,10 @@
+suites:
+  boilerplate_suite:
+    namespace: Http\Boilerplate
+    psr4_prefix: Http\Boilerplate
+formatter.name: pretty
+extensions:
+  - PhpSpec\Extension\CodeCoverageExtension
+code_coverage:
+  format: clover
+  output: build/coverage.xml
