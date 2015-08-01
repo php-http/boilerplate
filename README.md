@@ -25,7 +25,7 @@ $ composer require php-http/boilerplate
 ## Testing
 
 ``` bash
-$
+$ composer test
 ```
 
 
