@@ -27,8 +27,8 @@
         }
     },
     "scripts": {
-        "test": "",
-        "test-ci": ""
+        "test": "vendor/bin/phpspec run",
+        "test-ci": "vendor/bin/phpspec run -c phpspec.yml.ci"
     },
     "extra": {
         "branch-alias": {
