@@ -4,3 +4,4 @@
 .scrutinizer.yml export-ignore
 .travis.yml      export-ignore
 CONTRIBUTING.md  export-ignore
+CONDUCT.md       export-ignore
