@@ -87,6 +87,18 @@ This repository follows the [PSR-2 standard](http://www.php-fig.org/psr/psr-2/) 
 you must follow these rules.
 
 
+## Coding style
+
+Apart from the standards above, we have a few more rules which we think makes programming more logical:
+
+1. Don't align key value pairs: it messes up diff (this applies to code, config, even docblocks)
+2. Use trailing commas after last array elements
+
+See these articles for reference:
+
+- http://mnapoli.fr/approaching-coding-style-rationally/
+
+
 ## Semver
 
 We are trying to follow [semver](http://semver.org/). When you are making BC breaking changes,
