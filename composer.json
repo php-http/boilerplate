@@ -1,0 +1,32 @@
+{
+    "name": "webplates/package",
+    "description": "Webplates package",
+    "license": "MIT",
+    "keywords": ["webplates", "package"],
+    "homepage": "http://webplates.xyz",
+    "authors": [
+        {
+            "name": "Author",
+            "email": "email@author.me"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Webplates\\Package\\": "src/"
+        }
+    },
+    "scripts": {
+        "test": "",
+        "test-ci": ""
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1-dev"
+        }
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev"
+}
