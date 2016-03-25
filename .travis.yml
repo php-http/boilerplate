@@ -16,7 +16,6 @@ php:
 env:
     global:
         - TEST_COMMAND="composer test"
-        - COVERAGE=false
 
 branches:
     except:
