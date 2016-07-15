@@ -7,7 +7,7 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/webplates/package.svg?style=flat-square)](https://scrutinizer-ci.com/g/webplates/package)
 [![Total Downloads](https://img.shields.io/packagist/dt/webplates/package.svg?style=flat-square)](https://packagist.org/packages/webplates/package)
 
-**Webplates pacakge.**
+**Webplates package.**
 
 
 ## Install

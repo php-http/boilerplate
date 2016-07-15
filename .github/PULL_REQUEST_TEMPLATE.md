@@ -31,11 +31,11 @@ $foo->doSomething();
 ```
 
 
-#### BC Breaks/Deprecations
+#### Checklist
 
-Describe BC breaks/deprecations here. (remove this section if not needed)
+- [ ] Updated CHANGELOG.md to describe BC breaks / deprecations | new feature | bugfix
 
 
 #### To Do
 
-- [ ] Add tests
+- [ ] If the PR is not complete but you want to discuss the approach, list what remains to be done here
