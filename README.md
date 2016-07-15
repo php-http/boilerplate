@@ -31,7 +31,7 @@ $ composer test
 
 ## Security
 
-If you discover any security related issues, please contact us at [security@author](mailto:security@author.me).
+If you discover any security related issues, please contact us at [security@author.me](mailto:security@author.me).
 
 
 ## License
