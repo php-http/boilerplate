@@ -1,7 +1,6 @@
 # Package
 
 [![Latest Version](https://img.shields.io/github/release/webplates/package.svg?style=flat-square)](https://github.com/webplates/package/releases)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Build Status](https://img.shields.io/travis/webplates/package.svg?style=flat-square)](https://travis-ci.org/webplates/package)
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/webplates/package.svg?style=flat-square)](https://scrutinizer-ci.com/g/webplates/package)
 [![Quality Score](https://img.shields.io/scrutinizer/g/webplates/package.svg?style=flat-square)](https://scrutinizer-ci.com/g/webplates/package)
