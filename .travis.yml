@@ -27,7 +27,7 @@ matrix:
         - php: 5.5
           env: COMPOSER_FLAGS="--prefer-stable --prefer-lowest" COVERAGE=true TEST_COMMAND="composer test-ci"
         - php: hhvm
-          env: trusty
+          dist: trusty
 
 before_install:
     - if [[ $COVERAGE != true ]]; then phpenv config-rm xdebug.ini || true; fi
