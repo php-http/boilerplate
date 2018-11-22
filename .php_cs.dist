@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Configuration for fabpot/php-cs-fixer
+ * Configuration for friendsofphp/php-cs-fixer
  *
  * @link https://github.com/FriendsOfPHP/PHP-CS-Fixer
  */
