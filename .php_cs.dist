@@ -19,5 +19,12 @@ return PhpCsFixer\Config::create()
         ],
         'no_empty_phpdoc' => true,
         'no_superfluous_phpdoc_tags' => true,
+        'visibility_required' => [
+            'elements' => [
+                'const',
+                'method',
+                'property',
+            ],
+        ],
     ])
     ->setFinder($finder);
